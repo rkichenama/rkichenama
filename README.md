@@ -63,8 +63,8 @@
   </a>
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rkichenama&theme=react&show_icons=true&locale=en&layout=compact" alt="rkichenama" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?count_private=true&username=rkichenama&theme=react&show_icons=true&locale=en&layout=compact" alt="rkichenama" /></p>
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=rkichenama&theme=react&show_icons=true&locale=en" alt="rkichenama" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?count_private=true&username=rkichenama&theme=react&show_icons=true&locale=en" alt="rkichenama" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rkichenama&theme=react&hide_border=true" alt="rkichenama" /></p>
