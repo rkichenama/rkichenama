@@ -67,4 +67,4 @@
 
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?count_private=true&username=rkichenama&theme=react&show_icons=true&locale=en" alt="rkichenama" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rkichenama&theme=react&hide_border=true" alt="rkichenama" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rkichenama&theme=react&hide_border=true&fire=FF0000&sideLabels=FFFFFF&currStreakLabel=FFFFFF" alt="rkichenama" /></p>
