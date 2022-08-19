@@ -1,70 +1,39 @@
-<p align="left">
-<a href="https://dev.to/rkichenama" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rkichenama" height="30" width="40" /></a>
-<a href="https://twitter.com/rkichenama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rkichenama" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://dev.to/rkichenama" target="_blank"><img align="center" src="https://img.shields.io/badge/-rkichenama-333?style=for-the-badge&logo=dev.to&logoColor=white" alt="rkichenama" /></a>
+  <a href="https://www.linkedin.com/in/rkichenama/" target="_blank"><img align="center" src="https://img.shields.io/badge/-rkichenama-0a66c2?style=for-the-badge&logo=Linkedin&logoColor=white" alt="rkichenama" /></a>
+  <a href="https://reddit.com/user/rkichenama" target="_blank"><img align="center" src="https://img.shields.io/badge/-rkichenama-darkred?style=for-the-badge&logo=reddit&logoColor=white" alt="rkichenama" /></a>
+  <a href="https://twitter.com/rkichenama" target="_blank"><img align="center" src="https://img.shields.io/badge/-rkichenama-084b78?style=for-the-badge&logo=twitter&logoColor=white" alt="rkichenama" /></a>
+  <a href="mailto:rkichenama@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-rkichenama-red?style=for-the-badge&logo=gmail&logoColor=white" alt="rkichenama" /></a>
 </p>
 
 <hr />
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rkichenama&theme=darkhub&no-bg=true" alt="rkichenama" /></a> </p>
-
 <p align="center">
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-  </a>
-  <a href="https://sass-lang.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
-  </a>
-  <br />
-  <a href="https://webpack.js.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40" />
-  </a>
-  <br />
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-  </a>
-  <a href="https://svelte.dev" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40" />
-  </a>
-  <br />
-  <a href="https://www.ruby-lang.org/en/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40" />
-  </a>
-  <a href="https://rubyonrails.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40" />
-  </a>
-  <br />
-  <a href="https://jestjs.io" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" />
-  </a>
-  <a href="https://jasmine.github.io/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40" />
-  </a>
-  <a href="https://karma-runner.github.io/latest/index.html" target="_blank">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40" />
-  </a>
-  <a href="https://mochajs.org" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40" />
-  </a>
-  <br />
-  <a href="https://www.electronjs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40" />
-  </a>
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
+  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=for-the-badge&logo=styled-components&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white" /> 
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?count_private=true&username=rkichenama&theme=react&show_icons=true&locale=en&layout=compact" alt="rkichenama" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?count_private=true&username=rkichenama&theme=react&show_icons=true&locale=en&layout=compact" alt="rkichenama" />
+</p>
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?count_private=true&username=rkichenama&theme=react&show_icons=true&locale=en" alt="rkichenama" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rkichenama&theme=react&hide_border=true&fire=FF0000&sideLabels=FFFFFF&currStreakLabel=FFFFFF" alt="rkichenama" />
+</p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rkichenama&theme=react&hide_border=true&fire=FF0000&sideLabels=FFFFFF&currStreakLabel=FFFFFF" alt="rkichenama" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?count_private=true&username=rkichenama&theme=react&show_icons=true&locale=en" alt="rkichenama" />
+</p>
